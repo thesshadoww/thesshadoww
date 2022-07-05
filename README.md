@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thesshadoww
 - 👀 I’m interested in css y html
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on desarrollador de videojuegos
+- 📫 How to reach me lauramontenillo@gmail.com
 
 <!---
 thesshadoww/thesshadoww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
